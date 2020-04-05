@@ -16,9 +16,9 @@ class JenkinsSetupDemoApplicationTests {
 	Logger logger = LoggerFactory.getLogger(JenkinsSetupDemoApplicationTests.class);
 
 	@Test
-	public void contextLoads() {
+	public  contextLoads() {
 		logger.info("Test case execution started.....................");
-		
+
 		Assert.assertEquals(true, true);
 	}
 
