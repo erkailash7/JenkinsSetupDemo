@@ -19,6 +19,7 @@ class JenkinsSetupDemoApplicationTests {
 	public void contextLoads() {
 		logger.info("Test case execution started.....................");
 		logger.info("Test case execution started 2nd time.....................");
+		logger.info("Test case execution started 3rd Time time.....................");
 		Assert.assertEquals(true, true);
 	}
 
