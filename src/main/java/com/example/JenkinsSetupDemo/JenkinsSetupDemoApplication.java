@@ -15,7 +15,7 @@ public class JenkinsSetupDemoApplication {
 
 	@PostConstruct
 	public void init(){
-		logger.info("Application started........");
+		logger.info("Application started........1S");
 	}
 
 
