@@ -17,7 +17,7 @@ class JenkinsSetupDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		logger.info("Test case execution started kailash.....................");
+		logger.info("Test case executiondd");
 
 		Assert.assertEquals(true, true);
 	}
